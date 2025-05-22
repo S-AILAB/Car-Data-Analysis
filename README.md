@@ -15,7 +15,7 @@ Prepare the Car Dataset for analysis by identifying and handling missing values 
 
 <h2>Dataset</h2>
 <ul>
-  <li><strong>Dataset Name:</strong> Car Dataset</li>
+  <li><strong>Dataset Name:</strong> car price</li>
 </ul>
 
 <hr>
